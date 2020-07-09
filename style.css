@@ -1,0 +1,90 @@
+.navbar-brand img{
+    width: 130px;
+}
+.navbar-nav{
+    margin-right: 10px;
+}
+.btn-success{
+    border-radius: 20px;
+}
+.start-button{
+    background-image: linear-gradient(45deg, #1ea024 ,#21B573);
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 70px;
+}
+.bg-green{
+    background-color: #F0FFF0;
+}
+.red-text{
+    color: #FD511A;
+}
+.green-text{
+    color: #21B573;
+}
+.text-grey{
+    color: grey;
+}
+
+.info{
+    height: 250px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 10px;
+}
+
+#info2{
+    background-color: white;
+}
+
+.info h4{
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+.info img{
+    width: 70px;
+    margin-top: 15%;
+    margin-left: 35%;
+}
+.calender img{
+    width: 20px;
+}
+.seats img{
+    width: 20px;
+}
+.txt{
+    margin-left: 5px;
+}
+.testimo img{
+    width: 40%;
+    margin-left: 35%;
+    margin-bottom: 15px;
+}
+.card{
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.bg-footer{
+    background-color: #282531;
+    height: 330px;
+    padding-top: 40px;
+    overflow: scroll;
+}
+footer ul{
+    list-style: none;
+}
+footer a,footer p{
+    color: rgb(218, 218, 218);
+    font-size: 12px;
+}
+footer a:hover{
+    text-decoration:none;
+    color: teal;
+}
